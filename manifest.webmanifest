@@ -8,8 +8,8 @@
   "id": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#11161b",
-  "theme_color": "#1d4f91",
+  "background_color": "#141310",
+  "theme_color": "#b8321f",
   "categories": ["news", "education"],
   "icons": [
     {"src": "icones/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
