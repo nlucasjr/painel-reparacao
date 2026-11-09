@@ -1,7 +1,7 @@
 // Service worker do Painel da Reparação.
 // Página: rede primeiro (pega a edição nova), cache se estiver offline.
 // Ícones, manifest e fontes: cache primeiro.
-const VERSAO = "2026-11-09-185857";
+const VERSAO = "2026-11-09-193050";
 const CACHE = "painel-" + VERSAO;
 const BASE = ["./", "./index.html", "./manifest.webmanifest",
   "./icones/icone-192.png", "./icones/icone-512.png", "./icones/apple-touch-icon.png", "./icones/favicon-32.png"];
